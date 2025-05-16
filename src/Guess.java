@@ -44,8 +44,6 @@ public class Guess {
         int number = 0;
         numbers.clear();
 
-        System.out.println(randomNumber);
-
         // jogo.
         while (true) { 
           System.out.println();
